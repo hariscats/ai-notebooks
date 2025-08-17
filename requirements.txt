@@ -1,0 +1,17 @@
+numpy
+pandas
+torch
+transformers
+scikit-learn
+matplotlib
+seaborn
+jupyter
+notebook
+ipython
+tqdm
+datasets
+sentencepiece
+nltk
+spacy
+opencv-python
+Pillow
